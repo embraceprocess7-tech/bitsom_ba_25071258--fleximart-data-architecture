@@ -10,7 +10,8 @@
 [This project implements an end-to-end ETL pipeline to extract data from raw CSV files and transform it through data cleaning and validation.
 The cleaned data is loaded into a MySQL-based relational data warehouse designed with primary and foreign key constraints.
 Data quality checks are applied to handle duplicate records and missing values, and a data quality report is generated.further data has been 
-analysed using business query implimentation and OLAP analytics query]
+analysed using business query implimentation and OLAP analytics query.
+Note - Clean MySql tables prior running files.]
 
 ## Repository Structure
 ├── part1-database-etl/
@@ -63,12 +64,21 @@ mongosh < part2-nosql/mongodb_operations.py
 
 ## Key Learnings
 
-[I one from mechanical background, this is new horizon for me.I was taught basic level python and mongo was tought more of theory during our classes.SQL was taught well during foundation course.
-For me GITHUB is totally new concept , i am learning this using youtube matrial from basic what GIT is and what GITHUB is.Now i am learning python by re-visiting course material , PDF book youtube vidoes.All togther i have understood like this course is guiding me to  ]
+[I have top 4 learning during the assignment.Learnings are as follows:- 
+1. How to do python coding on hit and trial basis. Using youtube videos and books.
+
+2. How to push data from Pycharm to MySql.
+
+3. How to create repository and How to push data from Pycharm to Github. 
+
+Note - I one from mechanical background, this is new horizon for me.I was taught basic level python and mongo was tought more of theory during our classes.SQL was taught well during foundation course.
+For me GITHUB is totally new concept , i am learning this using youtube matrial from basic what GIT is and what GITHUB is.Now i am learning python by re-visiting course material ,books & youtube vidoes.All togther i have understood like this course is guiding me to right path. Only way to excel is to learn from free sources , books as our instructors have guided us]
 
 ## Challenges Faced
 
-1. [I strug]
-2. [Challenge and solution]
+1. [I struggled while uploading data to MySql from Pycharm , it took me time to resolve the issue.]
+2. [It took me lot of time to understand what GITHUB is how does it function.]
+3. [SQL OLAP queries were quite difficult]
+
 
 
