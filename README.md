@@ -11,7 +11,7 @@
 The cleaned data is loaded into a MySQL-based relational data warehouse designed with primary and foreign key constraints.
 Data quality checks are applied to handle duplicate records and missing values, and a data quality report is generated.further data has been 
 analysed using business query implimentation and OLAP analytics query.
-Note - Clean MySql tables prior running files.]
+##Note - Clean MySql tables prior running files. i have kept raw_data files names - output.csv for products_raw.csv, output1.csv for sales_raw.csv]
 
 ## Repository Structure
 ├── part1-database-etl/
